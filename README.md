@@ -25,7 +25,7 @@ This repository compares the **top 5 mobile companies in the world** based on gl
 
 The bar chart below shows the top 5 companies by smartphone shipments:
 
-![Top 5 Mobile Sales Chart](charts/top5_mobile_sales_q2_2025.png)
+![Top 5 Mobile Sales Chart](charts/top5_mobile_sales_q2_2025.jpeg)
 
 ## 🔧 How to Generate the Chart
 
