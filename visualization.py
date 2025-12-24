@@ -13,6 +13,6 @@ plt.ylabel("Shipments (Million Units)")
 plt.grid(axis='y', linestyle='--', alpha=0.7)
 
 # Save chart
-plt.savefig("charts/top5_mobile_sales_q2_2025.png", dpi=300)
+plt.savefig("charts/top5_mobile_sales_q2_2025.jpeg", dpi=300)
 plt.show()
 
